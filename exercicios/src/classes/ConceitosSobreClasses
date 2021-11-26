@@ -1,0 +1,37 @@
+# Por convenção e boas práticas uma classe em Java sempre se inicia
+# com Caixa alta e caso seja mais de uma palavra usar camelcase.
+
+# Exemplo de uma classe Java
+
+public Class Cliente(){
+
+       String nome;  // Atributos
+       String telefon; // Atributos
+       
+       // Comportamento
+       public void Imprimir(){
+       
+          System.ou.println(nome, telefone);
+       }
+   }
+   
+   Para criar uma classe em Java inicia-se com a palavra reservada ( public Class ) e o nome da classe.
+   
+# Dentro de um corpo de uma classe temos atributos e comportamentos.
+# Atributos são dados e comportamento métodos.
+
+# Classe define um tipo
+# Classe define uma abstração 
+# Classe define uma simplificação
+
+# Abstração porque uma classe abstrai as coisas do mundo real por exemplo pessoa, carro, loja.
+# Simplificação porque simplifica as coisas do mundo real em código.
+
+# É possível que uma classe tenha outra classe dentro dela
+
+# Classes que estão no mesmo pacote não é necessário fazer importação
+
+
+
+
+
