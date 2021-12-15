@@ -1,0 +1,4 @@
+# Construtor padrao é um construtor que não recebe argumentos
+# Já um construtor que não é padrao ele recebe argumentos
+# Eu posso ter vários construtores desde que os argumentos não seja iguais
+# Construtor não tem retorno se colocar um retorno se torna um método
