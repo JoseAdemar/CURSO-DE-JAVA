@@ -1,0 +1,6 @@
+#
+Uma classe ao ser instanciada para cada objeto criado 
+é criada uma referencia dos atributos em memoria.
+
+Se essa classe tiver atributos ou metodos estáticos
+não é necessário realizar a instancia para chamar os metodos ou atributos.
