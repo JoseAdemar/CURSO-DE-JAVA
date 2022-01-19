@@ -31,6 +31,8 @@ public Class Cliente(){
 
 # Classes que estão no mesmo pacote não é necessário fazer importação
 
+# Um atributo estático pode ser modificado desde que não seja do tipo final
+
 
 
 

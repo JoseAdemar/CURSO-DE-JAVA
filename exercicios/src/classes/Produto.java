@@ -4,32 +4,30 @@ public class Produto {
 
 	String nome;
 	Double preco;
-	Double desconto;
+	static Double desconto = 0.25;
 
 	// Construtor com argumentos
-	public Produto(String nome, Double preco, Double desconto) {
+	public Produto(String nome, Double preco) {
 
 		this.nome = nome;
 		this.preco = preco;
-		this.desconto = desconto;
 	}
-	
+
 	// Construtor sem argumentos
 	public Produto() {
-		
+
 	}
-	
+
 	// Metodo
 	public Double precoComDesconto() {
-		
-		 return this.preco * (1 - this.desconto);
+
+		return this.preco * (1 - desconto);
 	}
-	
+
 	// Metodo
 	public Double precoComDesconto(double descontoDoGerente) {
-		
-		 return this.preco * (1 - this.desconto - descontoDoGerente);
+
+		return this.preco * (1 - desconto - descontoDoGerente);
 	}
-	
-	
+
 }
