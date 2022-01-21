@@ -33,6 +33,10 @@ public Class Cliente(){
 
 # Um atributo estático pode ser modificado desde que não seja do tipo final
 
+# Tipo Valor vs Referencia
+
+tipo valor é usado para tipo primitivos e referencia para objetos
+
 
 
 

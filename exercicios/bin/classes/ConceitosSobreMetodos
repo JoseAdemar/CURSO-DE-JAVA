@@ -4,3 +4,5 @@ o mesmo nome desde que os parametros ou quantidade seja diferentes.
 
 # Resumindo a assinatura do método tem que ser diferente.
 
+# a partir de um metodo statico nao é possível acessar um método de instância.
+
