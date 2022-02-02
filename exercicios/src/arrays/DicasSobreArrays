@@ -1,0 +1,11 @@
+# Minhas dicas de arrays e colections
+
+# Caracteristícas de arrays
+arrays é estático e tem tamanho fixo no Java temos que dizer exatamente o tamanho do array.
+arrays é homogeneo uma vez que fale que o array é do tipo inteiro ele não pode armazenar String.
+arrays é indexado acessamos pelo indice que inicia apartir do indice 0.
+array é um objeto.
+Na declaracao de um array os colchetes pode vim antes ou depois conforme
+o exemplo:  String[]a = new String[3]; ou String a[] = new String[3];
+
+
