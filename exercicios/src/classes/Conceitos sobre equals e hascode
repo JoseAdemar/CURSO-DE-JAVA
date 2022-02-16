@@ -1,0 +1,10 @@
+Ao trabalhar com variaveis do tipo primitivo
+utilizamos o sinal de == para fazer a comparação que a comparação de endereço de memória.
+
+Quando estamos trabalhando com objetos utilizamos o equal e hascode
+
+Para que funcione a comparação entre objetos no java utilizando o equals e hascode é necessário
+implementar o method equals e hascode.
+
+
+

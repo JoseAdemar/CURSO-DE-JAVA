@@ -4,3 +4,5 @@ Uma classe ao ser instanciada para cada objeto criado
 
 Se essa classe tiver atributos ou metodos estáticos
 não é necessário realizar a instancia para chamar os metodos ou atributos.
+
+A classe Object é mãe de todos os objetos seria o objeto raiz.
