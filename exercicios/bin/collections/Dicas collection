@@ -9,7 +9,7 @@
  Descrição do ( Set ) Não é possível acessar uma collection do tipo Set pelo indice ele não é indexado.
  Também no Set não é aceito repetição e ele é não ordenado por padrão.
  
- Descrição ( List ) List é indexado e aceita repetição.
+ Descrição ( List ) List é indexado e aceita repetição e é ordenada.
  
  Descrição ( Map ) É uma estrutura chave valor, não aceita repetição na chave e aceita repetição no valor.
  
