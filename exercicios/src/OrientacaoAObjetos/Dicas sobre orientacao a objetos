@@ -2,3 +2,24 @@
 
 No java eu posso ter classes com o mesmo nome 
 desde que esteja em pacotes diferentes.
+
+### OS QUATRO PILARES DA ORIENTAÇÃO OBJETO
+
+1-- Ecapsulamento
+    Ajuda a proteger o objeto deixando visível somente o necessário
+    Exemplo um carro executa várias ações que o motorista não sabe, 
+    ele tem o necessário que é o volante, freio porém ele não sabe como o motor 
+    está trabalhando o que acontece la dentro.
+    
+2-- Herança
+    É um princípio de reuso de código exemplo uma classe animal pode ser herdada por
+    outra classe porque elas tem coisas em comum, por exemplo cachorro, gato todos são
+    animais então eles herdam da classe animal.
+    
+3-- Polimorfismo
+
+4-- Abstração
+    É a capacidade de abstrair as coisas do mundo real para o software
+    Exemplo podemos ter uma classe do tipo carro, carro tem atributos 
+    como marca, modelo, cor e também comportamentos como ligar , movimentar.
+    
